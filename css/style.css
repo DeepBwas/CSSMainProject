@@ -1832,7 +1832,7 @@ header{
     color: white;
     margin-bottom: 20px;
     line-height: 60px;
-    z-index: 999;
+    z-index: 899;
 }
 @media screen and (min-width: 861px) and (max-width: 1200px){
     .help-container h1{
